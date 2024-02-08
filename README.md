@@ -17,8 +17,9 @@ my repository contains my notebook for Tensorflow Certificate
 
 
 
-| Dataset                                                                    | Implementation                                            | Validation Accuracy |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------- |
+| Dataset                                                                                      | Implementation          | Validation Accuracy |
+|----------------------------------------------------------------------------------------------|-------------------------|--------------|
+| [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) | [MNIST.ipynb](notebook) |              |
 
 
 
@@ -48,6 +49,7 @@ my repository contains my notebook for Tensorflow Certificate
 
 ### ProtonX Example
 
-- Task 1: [ProtonX](notebook/[ProtonX]_Tensorflow_Example_1.ipynb)
-- 
+- Task 1: [[ProtonX]_TensorFlow_Example_1.ipynb](notebook/Task 1/[ProtonX]_TensorFlow_Example_1.ipynb)
+
+- Task 2 : [ProtonX]()
 
