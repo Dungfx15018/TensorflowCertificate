@@ -17,10 +17,10 @@ my repository contains my notebook for Tensorflow Certificate
 
 
 
-| Dataset                                                                                      | Implementation | Validation Accuracy |
-|----------------------------------------------------------------------------------------------|-----------|---------------------|
-| [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) | [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb) | 97.20%              |
-
+| Dataset                                                                                    | Implementation                                                  | Validation Accuracy |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------|
+| [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)             | [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb) | 97.20%              |
+| [Rock_Paper_Scissors](https://storage.googleapis.com/download.tensorflow.org/data/rps.zip) | [Rock_Paper_Scissors](notebook/Task%203/[ProtonX]_TensorFlow_Example_3.ipynb)| 96.51% |
 
 
 - Image Classification
@@ -52,4 +52,6 @@ my repository contains my notebook for Tensorflow Certificate
 - Task 1: [Linear Regression](notebook/Task%201/[ProtonX]_TensorFlow_Example_1.ipynb)
 
 - Task 2 : [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb)
+
+- Task 3: [Rock_Paper_Scissors](notebook/Task%203/[ProtonX]_TensorFlow_Example_3.ipynb)
 
