@@ -17,9 +17,9 @@ my repository contains my notebook for Tensorflow Certificate
 
 
 
-| Dataset                                                                                      | Implementation          | Validation Accuracy |
-|----------------------------------------------------------------------------------------------|-------------------------|--------------|
-| [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) | [MNIST.ipynb](notebook) |              |
+| Dataset                                                                                      | Implementation | Validation Accuracy |
+|----------------------------------------------------------------------------------------------|-----------|---------------------|
+| [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) | [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb) | 97.20%              |
 
 
 
@@ -49,7 +49,7 @@ my repository contains my notebook for Tensorflow Certificate
 
 ### ProtonX Example
 
-- Task 1: [ProtonX](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb)
+- Task 1: [Linear Regression](notebook/Task%201/[ProtonX]_TensorFlow_Example_1.ipynb)
 
-- Task 2 : [ProtonX]()
+- Task 2 : [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb)
 
