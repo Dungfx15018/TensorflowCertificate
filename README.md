@@ -49,7 +49,7 @@ my repository contains my notebook for Tensorflow Certificate
 
 ### ProtonX Example
 
-- Task 1: [[ProtonX]_TensorFlow_Example_1.ipynb](notebook/Task 1/[ProtonX]_TensorFlow_Example_1.ipynb)
+- Task 1: [ProtonX](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb)
 
 - Task 2 : [ProtonX]()
 
