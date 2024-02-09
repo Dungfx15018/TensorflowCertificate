@@ -36,7 +36,7 @@ my repository contains my notebook for Tensorflow Certificate
 
 | Dataset                                                                    | Implementation                                            | Validation Accuracy |
 | -------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------- |
-| [News Headlines Dataset](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection) | [news_sarcasm.ipynb](notebook/nlp/news_sarcasm.ipynb) | 85.25%              |
+| [News Headlines Dataset](https://storage.googleapis.com/learning-datasets/sarcasm.json) | [Phân loại câu mỉa mai](notebook/Task%204/[ProtonX]_TensorFlow_Example_4.ipynb) | 85.25%              |
 
 
 - Time series
@@ -54,4 +54,6 @@ my repository contains my notebook for Tensorflow Certificate
 - Task 2 : [MNIST](notebook/Task%202/[ProtonX]_TensorFlow_Example_2.ipynb)
 
 - Task 3: [Rock_Paper_Scissors](notebook/Task%203/[ProtonX]_TensorFlow_Example_3.ipynb)
+
+- Task 4: [Phân loại câu mỉa mai](notebook/Task%204/[ProtonX]_TensorFlow_Example_4.ipynb)
 
