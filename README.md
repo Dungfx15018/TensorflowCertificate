@@ -35,15 +35,16 @@ my repository contains my notebook for Tensorflow Certificate
 
 
 | Dataset                                                                    | Implementation                                            | Validation Accuracy |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------- |
-| [News Headlines Dataset](https://storage.googleapis.com/learning-datasets/sarcasm.json) | [Phân loại câu mỉa mai](notebook/Task%204/[ProtonX]_TensorFlow_Example_4.ipynb) | 85.25%              |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |---------------------|
+| [News Headlines Dataset](https://storage.googleapis.com/learning-datasets/sarcasm.json) | [Phân loại câu mỉa mai](notebook/Task%204/[ProtonX]_TensorFlow_Example_4.ipynb) | 86.07%              |
 
 
 - Time series
 
 
-| Dataset                                                                    | Implementation                                            | Validation Accuracy |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------- |
+| Dataset                                                                                            | Implementation                                                     | MAE |
+|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----|
+| [Sunspots](https://raw.githubusercontent.com/adib0073/TimeSeries-Using-TensorFlow/main/Data/Sunspots.csv) | [Sunspots](notebook/Task%205/[ProtonX]_TensorFlow_Example_5.ipynb) |     |
 
 
 
@@ -56,4 +57,6 @@ my repository contains my notebook for Tensorflow Certificate
 - Task 3: [Rock_Paper_Scissors](notebook/Task%203/[ProtonX]_TensorFlow_Example_3.ipynb)
 
 - Task 4: [Phân loại câu mỉa mai](notebook/Task%204/[ProtonX]_TensorFlow_Example_4.ipynb)
+
+- Task 5: [Sunspots](notebook/Task%205/Copy_of_[ProtonX]_TensorFlow_Example_5.ipynb)
 
